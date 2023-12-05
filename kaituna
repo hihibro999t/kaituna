@@ -1,4 +1,4 @@
-_G.Kaitun = true
+Kaitun = true
     if getgenv().Setting() then else
         if _G.Kaitun then
             repeat wait() until game:IsLoaded()
